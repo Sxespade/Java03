@@ -1,8 +1,7 @@
-package lesson3.Task1;
+package lesson03.Task1;
 
 import java.io.FileInputStream;
 import java.io.IOException;
-import java.io.InputStreamReader;
 
 public class Main {
     public static void main(String[] args) {

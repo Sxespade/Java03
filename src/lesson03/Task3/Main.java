@@ -1,4 +1,4 @@
-package lesson3.Task3;
+package lesson03.Task3;
 
 import java.io.*;
 import java.util.*;
